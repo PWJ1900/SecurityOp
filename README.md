@@ -5,7 +5,10 @@ Before I wasted a lot of time to deal with trifles, the development of the job i
 
 /** author: Buri Pan<br>
 */<br>
-cmake java Security gradle 
+![RUNOOB 图标](https://img.shields.io/badge/java_security-+++-brightgreen)
+![RUNOOB 图标](https://img.shields.io/badge/cmake-+++-brightgreen)
+![RUNOOB 图标](https://img.shields.io/badge/gradle-+++-brightgreen)
+  
 ## :running: Title
 * [CMAKE](#CMAKE)
 * [JAVA_Security](#JAVA_Security)
